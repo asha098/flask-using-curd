@@ -33,19 +33,21 @@ Follow these steps to set up and run the application on your local machine.
 
    ```bash
    git clone https://github.com/your-username/student-management-system.git
-  ## Navigate to the project directory:
+  ### step2: Navigate to the project directory:
    cd student-management-system
-  ## Set Up a Virtual Environment
+  ## step3: Set Up a Virtual Environment
    python -m venv venv
-  ## Activate the virtual environment:
+  ### step4: Activate the virtual environment:
   venv\Scripts\activate
-  ##Install Dependencies
+  ### step5: Install Dependencies
   pip install -r requirements.txt
   pip install Flask Flask-SQLAlchemy
-  ##Run the Application
+  ### step6: Run the Application
   python app.py
-  #Open your web browser and navigate to:
+  ### step7:
+  Open your web browser and navigate to:
   http://127.0.0.1:5000/
+  ### images
 ![WhatsApp Image 2025-03-01 at 06 44 02_7ef0fc71](https://github.com/user-attachments/assets/9596c939-9633-4684-81f9-40bd93225190)
 ![WhatsApp Image 2025-03-01 at 06 43 44_6174d36e](https://github.com/user-attachments/assets/b946a780-de4b-41ee-88e0-371de2b890eb)
 ![WhatsApp Image 2025-03-01 at 06 44 28_2be6ae99](https://github.com/user-attachments/assets/e650066a-13ee-49b2-9e82-5ee805eb8749)
