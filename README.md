@@ -41,6 +41,7 @@ Follow these steps to set up and run the application on your local machine.
   venv\Scripts\activate
   ### step5: Install Dependencies
   pip install -r requirements.txt
+  
   pip install Flask Flask-SQLAlchemy
   ### step6: Run the Application
   python app.py
